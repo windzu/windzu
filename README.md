@@ -9,10 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+wind!+%F0%9F%91%8B;I'm+an+Autonomous+Driving+Engineer;Passionate+about+Perception+%26+VLA" alt="Typing SVG" />
-</p>
-
 I'm an autonomous driving perception algorithm engineer based in Suzhou, Jiangsu Province. I love working on perception algorithms and exploring new technologies related to embodied intelligence, especially VLA. 🌍
 
 - 🔭 **Currently Focusing On:** Perception algorithms in autonomous driving.
@@ -22,26 +18,26 @@ I'm an autonomous driving perception algorithm engineer based in Suzhou, Jiangsu
 
 ---
 
-### 📊 My GitHub Stats & Activity
-
-<p align="center">
-  <a href="https://github.com/windzu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=windzu&show_icons=true&hide_title=true&count_private=true&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/windzu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windzu&layout=compact&hide_title=true&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 ### 🚀 3D Contribution Graph
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
 </p>
 
-<br>
+---
+
+### 💡 My Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
 
 <details>
 <summary><strong>🇨🇳 你好，我是 wind！👋 (点击展开中文)</strong></summary>
@@ -56,4 +52,3 @@ I'm an autonomous driving perception algorithm engineer based in Suzhou, Jiangsu
 
 </details>
 
----
