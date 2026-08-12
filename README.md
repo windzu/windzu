@@ -20,9 +20,9 @@ I'm an autonomous driving perception algorithm engineer based in Suzhou, Jiangsu
 
 ### ✨ Featured Projects
 
-<table>
+<table width="100%">
   <tr>
-    <td width="72" align="center">
+    <td width="80" align="center">
       <a href="https://github.com/windzu/windy">
         <img src="./assets/windy-logo.svg" width="56" alt="Windy logo" />
       </a>
