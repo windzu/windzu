@@ -18,6 +18,26 @@ I'm an autonomous driving perception algorithm engineer based in Suzhou, Jiangsu
 
 ---
 
+### ✨ Featured Project
+
+<table>
+  <tr>
+    <td width="136" align="center">
+      <a href="https://github.com/windzu/windy">
+        <img src="./assets/windy-logo.svg" width="104" alt="Windy logo" />
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/windzu/windy">Windy</a></h3>
+      <p><strong>A page-native agent for Obsidian.</strong></p>
+      <p>Windy keeps AI conversations attached to the page you are working on, so the right context follows you naturally through your Vault.</p>
+      <p><a href="https://github.com/windzu/windy">Repository</a> · <a href="https://github.com/windzu/windy/releases/latest">Latest release</a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🚀 3D Contribution Graph
 
 <p align="center">
@@ -51,4 +71,3 @@ I'm an autonomous driving perception algorithm engineer based in Suzhou, Jiangsu
 - 💬 **联系我:** 欢迎通过 [windzu1@gmail.com](mailto:windzu1@gmail.com) 与我交流。
 
 </details>
-
