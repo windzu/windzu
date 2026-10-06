@@ -35,6 +35,21 @@ I'm an autonomous driving perception algorithm engineer based in Suzhou, Jiangsu
       <a href="https://github.com/windzu/windy">↗</a>
     </td>
   </tr>
+  <tr>
+    <td width="80" align="center">
+      <a href="https://github.com/windzu/windforge">
+        <img src="./assets/windforge-logo.svg" width="56" alt="WindForge logo" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/windzu/windforge"><strong>WindForge</strong></a><br />
+      Wind's 3D design and printing workshop, with editable models and documented iterations.<br />
+      <a href="https://windzu.github.io/windforge/">View the model gallery ↗</a>
+    </td>
+    <td width="28" align="center">
+      <a href="https://github.com/windzu/windforge">↗</a>
+    </td>
+  </tr>
 </table>
 
 ---
